@@ -1,0 +1,14 @@
+C:\Users\KPNU_Naladka\Desktop\Учеба\Itogovaya KR\Itogovaya_KR\bin\Debug\net7.0\Itogovaya_KR.exe
+C:\Users\KPNU_Naladka\Desktop\Учеба\Itogovaya KR\Itogovaya_KR\bin\Debug\net7.0\Itogovaya_KR.deps.json
+C:\Users\KPNU_Naladka\Desktop\Учеба\Itogovaya KR\Itogovaya_KR\bin\Debug\net7.0\Itogovaya_KR.runtimeconfig.json
+C:\Users\KPNU_Naladka\Desktop\Учеба\Itogovaya KR\Itogovaya_KR\bin\Debug\net7.0\Itogovaya_KR.dll
+C:\Users\KPNU_Naladka\Desktop\Учеба\Itogovaya KR\Itogovaya_KR\bin\Debug\net7.0\Itogovaya_KR.pdb
+C:\Users\KPNU_Naladka\Desktop\Учеба\Itogovaya KR\Itogovaya_KR\obj\Debug\net7.0\Itogovaya_KR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KPNU_Naladka\Desktop\Учеба\Itogovaya KR\Itogovaya_KR\obj\Debug\net7.0\Itogovaya_KR.AssemblyInfoInputs.cache
+C:\Users\KPNU_Naladka\Desktop\Учеба\Itogovaya KR\Itogovaya_KR\obj\Debug\net7.0\Itogovaya_KR.AssemblyInfo.cs
+C:\Users\KPNU_Naladka\Desktop\Учеба\Itogovaya KR\Itogovaya_KR\obj\Debug\net7.0\Itogovaya_KR.csproj.CoreCompileInputs.cache
+C:\Users\KPNU_Naladka\Desktop\Учеба\Itogovaya KR\Itogovaya_KR\obj\Debug\net7.0\Itogovaya_KR.dll
+C:\Users\KPNU_Naladka\Desktop\Учеба\Itogovaya KR\Itogovaya_KR\obj\Debug\net7.0\refint\Itogovaya_KR.dll
+C:\Users\KPNU_Naladka\Desktop\Учеба\Itogovaya KR\Itogovaya_KR\obj\Debug\net7.0\Itogovaya_KR.pdb
+C:\Users\KPNU_Naladka\Desktop\Учеба\Itogovaya KR\Itogovaya_KR\obj\Debug\net7.0\Itogovaya_KR.genruntimeconfig.cache
+C:\Users\KPNU_Naladka\Desktop\Учеба\Itogovaya KR\Itogovaya_KR\obj\Debug\net7.0\ref\Itogovaya_KR.dll
